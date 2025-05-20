@@ -10,4 +10,4 @@ A simple local webapp for typing special characters from different alphabets
 
 ## Demo
 
-Yeah too lazy for that
+<img src="https://github.com/Egsagon/mKBD/blob/6bd32a6ac0a3e7ef07609fbfefb41376aa9f1541/demo.png">
