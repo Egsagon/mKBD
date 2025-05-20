@@ -1,0 +1,4 @@
+flask
+keyboard
+pyperclip
+flask_socketio
